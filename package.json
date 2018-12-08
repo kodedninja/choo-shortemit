@@ -1,0 +1,18 @@
+{
+  "name": "choo-shortemit",
+  "version": "0.1.0",
+  "description": "shortcut access to emit anywhere in your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kodedninja/choo-shortemit"
+  },
+  "keywords": [
+    "choo"
+  ],
+  "author": "kodedninja",
+  "license": "MIT"
+}
